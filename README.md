@@ -1,11 +1,14 @@
-## **Rafael G. Evangelista** 
- - Software Developer and AWS certified.
- - Currently mainly coding with Typescript and Kotlin.
- - Always studying something and seeking for new challenges.
+# 👋 Hi there, I'm **Rafael**
 
+💻 **Software Developer** | 📱 **Mobile-first, expanding to Web**
 
+I specialize in building Android applications with **Kotlin** (both **Jetpack Compose** and XML).  
+Currently, I'm learning **TypeScript** and exploring the **web development** world with frameworks.
 
-### How to reach me:  
-- LinkedIn: [linkedin.com/in/rafaelguerra](https://www.linkedin.com/in/rafaelguerra/)  
-- E-mail: [rafaelguerrae@outlook.com](mailto:rafaelguerrae@outlook.com)
-- Portfolio: [portfolio.com](https://portfolio-mainguerra.vercel.app/)
+🚀 I'm also diving into **open source contributions** — not just to improve my skills, but to connect with amazing people in the developer community.
+
+---
+
+### How to reach me
+- **LinkedIn**: [linkedin.com/in/rafaelguerra](https://www.linkedin.com/in/rafaelguerra/)  
+- 📬: [rafaelguerrae@outlook.com](mailto:rafaelguerrae@outlook.com)
